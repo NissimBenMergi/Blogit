@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Blogit</string>
+
+    <string name="tEmailHint">Email</string>
+    <string name="tName">Name</string>
+    <string name="tPasswordHint">Password</string>
+    <string name="tConfirmPasswordHint">Confirm password</string>
+    <string name="tLogin">Login</string>
+    <string name="tRegister">Register</string>
+    <string name="tFinish">Finish</string>
+    <string name="tSave">Save</string>
+    <string name="tNeedNewAccount">Need a new account ?</string>
+    <string name="tAlreadyHaveAnAccount">Already have an account ?</string>
+    <string name="tActionSearch">Search</string>
+    <string name="tAccountSettings">Account Settings</string>
+    <string name="tLogout">Logout</string>
+    <string name="tDescription">Description</string>
+    <string name="tPost">Post</string>
+    <string name="tBottomHomeText">Home</string>
+    <string name="tBottomNotificationText">Notification</string>
+    <string name="tBottomAccountSettings">My settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
